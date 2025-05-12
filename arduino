@@ -1,0 +1,9 @@
+clearcache/
+├── clearcache/
+│   └── __init__.py
+│   └── cli.py
+├── setup.py
+├── pyproject.toml
+├── README.md
+├── LICENSE
+└── constitution.json   <- required for tea
